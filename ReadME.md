@@ -2,3 +2,4 @@
 ⌨️ I can Code C# a bit of C++ node.js and some python 🖥️
 I'm currently learning The Most node.js ❤️
 I Live In Romania ❤️
+⌨️ My Discord Is NRG Cristi#9364 🖥️
