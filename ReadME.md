@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hello! My Name Is Cristian And I'm 12 Years Old! 😘</h3>
+<h3 align="center">✋ Hello! My Name Is Cristian And I'm 12 Years Old! 😘</h3>
 <h3 align="center">⌨️ I can Code C# a bit of C++ javascript and some python 🖥️</h3>
 <h3 align="left">For The Kids Who Wants To Play OG Fortnite Multiplayer:</h3>
 <h3 align="right">The Only Game I like to play is Fortnite 🎮</h3>
