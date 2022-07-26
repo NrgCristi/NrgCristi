@@ -17,4 +17,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nrgcristi&show_icons=true&locale=en" alt="nrgcristi" /></p>
 
-![My Discord](https://discord-readme-badge.vercel.app/api?id=877968140884123729)
+<h3 align="left">Discord Presence</h3>
+<p>&nbsp;<img align="center" src="https://discord-readme-badge.vercel.app/api?id=877968140884123729" /></p>
