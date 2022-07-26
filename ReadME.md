@@ -16,6 +16,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nrgcristi&show_icons=true&locale=en&layout=compact" alt="nrgcristi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nrgcristi&show_icons=true&locale=en" alt="nrgcristi" /></p>
-
-<h3 align="left">Discord Presence</h3>
-<p>&nbsp;<img align="center" src="https://discord-readme-badge.vercel.app/api?id="" /></p>
