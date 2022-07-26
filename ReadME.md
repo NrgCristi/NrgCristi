@@ -17,5 +17,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nrgcristi&show_icons=true&locale=en" alt="nrgcristi" /></p>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/877968140884123729
-                            )](https://discord.com/users/877968140884123729)
+![My Discord](https://discord-readme-badge.vercel.app/api?id=877968140884123729)
